@@ -11,7 +11,8 @@ Analysis of a data set across different regions to determine how customer age, c
 ## Data Analysis Process
  **1. Data Cleaning**:
 
-a. Duplicate Removal: Checked the Excel dataset for duplicates and removed all duplicate rows to ensure data accuracy.  
+a. Duplicate Removal: 
+- Checked the Excel dataset for duplicates and removed all duplicate rows to ensure data accuracy.  
 
 b. Field Standardization:   
       
@@ -26,7 +27,7 @@ b. Field Standardization:
 **3. Feature Engineering**:  
  - Created a new column, Age Bracket, using the formula:  
 
-         ### =IF(L2>65, "Senior", IF(L2>54, "Middle Age", IF(L2>=31, "Adults", IF(L2<31, "Adolescent", "Invalid"))))`
+          =IF(L2>65, "Senior", IF(L2>54, "Middle Age", IF(L2>=31, "Adults", IF(L2<31, "Adolescent", "Invalid"))))`
 
 This categorized individuals into appropriate age brackets: Senior, Middle Age, Adults, and Adolescent.  
 
@@ -47,9 +48,10 @@ This categorized individuals into appropriate age brackets: Senior, Middle Age, 
     
 - Designed a dashboard by merging charts created from the pivot tables:
 - Included line graphs to visualize key insights such as:
-          - Average income distribution based on bike purchases and gender.
-          - The relationship between commute distance and bike purchases.
-          - Age bracket trends in bike purchases.
+
+    - Average income distribution based on bike purchases and gender.
+    - The relationship between commute distance and bike purchases.
+    - Age bracket trends in bike purchases.
 - Used slicers and filters in Excel to make the dashboard interactive and user-friendly.
 ## Dashboard
 ![Dashboard.png](https://github.com/ranjitha-exe/Data-Analysis---Bike-sales/blob/main/Dashboard.png)
