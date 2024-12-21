@@ -62,17 +62,21 @@ This categorized individuals into appropriate age brackets: Senior, Middle Age, 
 
 ## Project Insights
 **1. Income**
+
+
   ![Income insights.png](https://github.com/ranjitha-exe/Data-Analysis---Bike-sales/blob/main/Income%20insights.png)
   
--People with higher income are more likely to purchase bikes.
--For both genders, individuals who purchased bikes had a higher average income compared to those who did not.
--Gender-Based Trends:
+- People with higher income are more likely to purchase bikes.
+- For both genders, individuals who purchased bikes had a higher average income compared to those who did not.
+- Gender-Based Trends:
 
-    -Males: Have a higher average income compared to females, both among those who purchased bikes and those who did not.
-    -Females: Show a similar trend where higher income correlates with a higher likelihood of purchasing a bike.
+    - Males: Have a higher average income compared to females, both among those who purchased bikes and those who did not.
+    - Females: Show a similar trend where higher income correlates with a higher likelihood of purchasing a bike.
 
 
 **2. Customer Demographic**
+
+
    ![Customer Age.png](https://github.com/ranjitha-exe/Data-Analysis---Bike-sales/blob/main/Customer%20Age.png)
 
 - Adolescent (age<31) : Both "Yes" and "No" responses are low, indicating limited interest or purchasing power in this age group.
@@ -99,7 +103,7 @@ This categorized individuals into appropriate age brackets: Senior, Middle Age, 
     - Adults, particularly those with higher incomes, are the primary target.
     - Males show slightly higher purchase propensity, but females are also a valuable segment.
 
- **Marketing Focus**:
+- **Marketing Focus**:
     - Highlight the cost-efficiency, convenience, and environmental benefits of biking for short commutes.
     - Tailor campaigns to appeal to high-income customers, focusing on premium quality and advanced features.
     - Use gender-neutral marketing strategies to attract both males and females.
@@ -109,5 +113,4 @@ This categorized individuals into appropriate age brackets: Senior, Middle Age, 
     - Introduce affordable electric or hybrid bikes to attract medium-distance commuters (2–5 miles) and higher-income buyers.
     - Offer comfort and accessibility features for seniors and adolescents.
   
--
-  
+
